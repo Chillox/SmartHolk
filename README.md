@@ -1,3 +1,3 @@
 # SmartHolk
-A IoT nest box using Arduino, ThingSpeak and ESP8266
+An IoT nest box using Arduino, ThingSpeak and ESP8266
 
