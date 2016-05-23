@@ -16,7 +16,7 @@
 #include <avr/power.h>
 #include <avr/wdt.h>
 
-#define sleepLoops 10 // Determine how many 8sec sleep cycles it will do until upload, 225 cycles = upload every 30 min
+#define sleepLoops 225 // Determine how many 8sec sleep cycles it will do until upload, 225 cycles = upload every 30 min
 int countSleep = 0;
 
 String GETdata = "GET /update?key=RRILTDXZF0S5TRM9";
